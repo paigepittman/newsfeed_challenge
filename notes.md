@@ -1,0 +1,1 @@
+If the project is run locally with CORS enabled in your browser, you will be able to return the json data from the url. when deployed to github pages, however, I realized that github pages would block this. So you'll see that I copied the data into a JSON file and in App.js, if no data is returned, the data is then pulled from the JSON file. 
