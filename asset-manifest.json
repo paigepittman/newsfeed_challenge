@@ -1,14 +1,14 @@
 {
-  "main.css": "/newsfeed_challenge/static/css/main.5bd9dff5.chunk.css",
-  "main.js": "/newsfeed_challenge/static/js/main.560dfb7e.chunk.js",
-  "main.js.map": "/newsfeed_challenge/static/js/main.560dfb7e.chunk.js.map",
-  "static/js/1.69deaf32.chunk.js": "/newsfeed_challenge/static/js/1.69deaf32.chunk.js",
-  "static/js/1.69deaf32.chunk.js.map": "/newsfeed_challenge/static/js/1.69deaf32.chunk.js.map",
+  "main.css": "/newsfeed_challenge/static/css/main.7629e8ef.chunk.css",
+  "main.js": "/newsfeed_challenge/static/js/main.581f6323.chunk.js",
+  "main.js.map": "/newsfeed_challenge/static/js/main.581f6323.chunk.js.map",
+  "static/js/1.560e5234.chunk.js": "/newsfeed_challenge/static/js/1.560e5234.chunk.js",
+  "static/js/1.560e5234.chunk.js.map": "/newsfeed_challenge/static/js/1.560e5234.chunk.js.map",
   "runtime~main.js": "/newsfeed_challenge/static/js/runtime~main.55cd6bd3.js",
   "runtime~main.js.map": "/newsfeed_challenge/static/js/runtime~main.55cd6bd3.js.map",
   "static/media/logo.svg": "/newsfeed_challenge/static/media/logo.5d5d9eef.svg",
-  "static/css/main.5bd9dff5.chunk.css.map": "/newsfeed_challenge/static/css/main.5bd9dff5.chunk.css.map",
+  "static/css/main.7629e8ef.chunk.css.map": "/newsfeed_challenge/static/css/main.7629e8ef.chunk.css.map",
   "index.html": "/newsfeed_challenge/index.html",
-  "precache-manifest.ab5e6cbcc0d96a9018e0b5c47d688614.js": "/newsfeed_challenge/precache-manifest.ab5e6cbcc0d96a9018e0b5c47d688614.js",
+  "precache-manifest.e9be00d0f8d1b68a30d72de8e7f26dc0.js": "/newsfeed_challenge/precache-manifest.e9be00d0f8d1b68a30d72de8e7f26dc0.js",
   "service-worker.js": "/newsfeed_challenge/service-worker.js"
 }
