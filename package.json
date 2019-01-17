@@ -2,7 +2,7 @@
   "name": "newsfeed_challenge",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://myusername.github.io/newsfeed_challenge",
+  "homepage": "https://paigepittman.github.io/newsfeed_challenge",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^2.0.1",
