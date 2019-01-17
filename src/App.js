@@ -1,0 +1,36 @@
+import React, { Component } from 'react';
+import logo from './logo.svg';
+import './App.css';
+import axios from 'axios';
+import {Navbar, NewsFeed, Footer } from './components';
+import { Container } from 'semantic-ui-react';
+
+
+class App extends Component {
+  constructor() {
+    super();
+    this.state = {
+      data: []
+    };
+  }
+
+
+  componentDidMount() {
+    axios.get('https://assets.studio71.io/test/news_feed.json').then((res) => {
+      console.log(res.data.items);
+      this.setState({data: res.data.items});
+    })
+}
+
+  render() {
+    return (
+      <Container>
+        <Navbar />
+        <NewsFeed data={this.state.data}/>
+        <Footer />
+      </Container>
+    );
+  }
+}
+
+export default App;
